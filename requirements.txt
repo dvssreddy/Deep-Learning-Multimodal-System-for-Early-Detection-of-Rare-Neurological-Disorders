@@ -1,0 +1,11 @@
+tensorflow>=2.11.0
+torch>=1.13.0
+nibabel
+pandas
+numpy
+matplotlib
+scikit-learn
+biopython
+seaborn
+shap
+captum
